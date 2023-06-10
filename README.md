@@ -4,10 +4,7 @@ He is also a researcher in the Data Mining Lab.
 
 Yian Kim is interested in...
 
-*Statistical Learning
-
-*Uncertainty Qualification
-
-*Class Imbalance
-
-*Semi-Supervised Learning
+  *Statistical Learning
+  *Uncertainty Qualification
+  *Class Imbalance
+  *Semi-Supervised Learning
