@@ -1,10 +1,7 @@
-Yian Kim is currently a graduate student(M.S.) majoring in statistics at Dongguk University in Seoul. 
+Hello! I'm Yian Kim, I'm currently a graduate student(M.S.) majoring in statistics at Dongguk University in Seoul. And I also a researcher in the Data Mining Lab. 
 
-He is also a researcher in the Data Mining Lab. 
-
-Yian Kim is interested in...
-
-  *Statistical Learning
-  *Uncertainty Qualification
-  *Class Imbalance
-  *Semi-Supervised Learning
+Interested in...
+  * Statistical Learning
+  * Uncertainty Qualification
+  * Class Imbalance
+  * Semi-Supervised Learning
